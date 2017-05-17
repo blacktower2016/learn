@@ -1,6 +1,6 @@
-hello git.
-Hello once again!
-And More Hello'es
+hello git.;
+Hello once again!;
+And More Hello'es;
 
-hello my dear friend
-hello you too
+hello my dear friend;
+hello you too;
